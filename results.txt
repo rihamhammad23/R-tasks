@@ -1,0 +1,7 @@
+	Control	Treated	FoldChange	MeanExpr	Status
+BRCA1	5.2	8.9	1.71	7.05	upregulated
+TP53	7.8	7.6	0.97	7.7	stable
+EGFR	3.1	6.7	2.16	4.9	upregulated
+MYC	9.4	12.1	1.29	10.75	upregulated
+PTEN	6	2.3	0.38	4.15	downregulated
+KRAS	4.5	9.8	2.18	7.15	upregulated
