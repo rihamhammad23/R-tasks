@@ -1,0 +1,7 @@
+"gene_names","control","treated","chromosome","fold_change","classification","log2_fc"
+"KRAS",4.5,9.8,"12",2.18,"upregulated",1.12
+"EGFR",3.1,6.7,"7",2.16,"upregulated",1.11
+"BRCA1",5.2,8.9,"17",1.71,"upregulated",0.77
+"MYC",9.4,12.1,"8",1.29,"upregulated",0.37
+"TP53",7.8,7.6,"17",0.97,"stable",-0.04
+"PTEN",6,2.3,"10",0.38,"downregulated",-1.4
